@@ -13,5 +13,5 @@ Examples of .net core basic knowledge points / .net core 基本知识点示例
 10. NET Core 中的通用主机和后台服务 [`Document`](https://github.com/zdz72113/NETCore_BasicKnowledge.Examples/blob/master/Documents/1.9%20%5BBasic%5D%20.NET%20Core%20%E4%B8%AD%E7%9A%84%E9%80%9A%E7%94%A8%E4%B8%BB%E6%9C%BA%E5%92%8C%E5%90%8E%E5%8F%B0%E6%9C%8D%E5%8A%A1.md) [`Source Code`](https://github.com/zdz72113/NETCore_BasicKnowledge.Examples/tree/master/GenericHostDemo)
 11. ASP.NET Core WebAPI中使用JWT Bearer认证和授权 [`Document`](https://github.com/zdz72113/NETCore_BasicKnowledge.Examples/blob/master/Documents/1.10%20%5BBasic%5D%20ASP.NET%20Core%20WebAPI%20%E4%B8%AD%E4%BD%BF%E7%94%A8%20%20JWT%20Bearer%20%E8%AE%A4%E8%AF%81%E5%92%8C%E6%8E%88%E6%9D%83.md) [`Source Code`](https://github.com/zdz72113/NETCore_BasicKnowledge.Examples/tree/master/SecurityDemo/SecurityDemo.Authentication.JWT)
 12. ASP.NET Core 中的实时框架 SignalR [`Document`](https://github.com/zdz72113/NETCore_BasicKnowledge.Examples/blob/master/Documents/1.11%20%5BBasic%5D%20ASP.NET%20Core%20%E4%B8%AD%E7%9A%84%E5%AE%9E%E6%97%B6%E6%A1%86%E6%9E%B6%20SignalR.md) [`Source Code`](https://github.com/zdz72113/NETCore_BasicKnowledge.Examples/tree/master/SignalRDemo)
-todo:添加新的版本的东西
+# todo:添加新的版本的东西
 https://docs.microsoft.com/zh-cn/aspnet/core/release-notes/aspnetcore-2.1?view=aspnetcore-3.0
