@@ -1,5 +1,5 @@
 # NETCore_BasicKnowledge.Examples
-# 已废弃，合并到了 https://github.com/jacklmjie/aspnetcoreboilerplate
+### 已废弃，合并到了 https://github.com/jacklmjie/aspnetcoreboilerplate
 Examples of .net core basic knowledge points / .net core 基本知识点示例
 
 1. ASP .NET Core 的运行机制 [`Document`](https://github.com/zdz72113/NETCore_BasicKnowledge.Examples/blob/master/Documents/1.1%20%5BBasic%5D%20ASP.NET%20Core%20%E7%9A%84%E5%90%AF%E5%8A%A8%E5%92%8C%E8%BF%90%E8%A1%8C%E6%9C%BA%E5%88%B6.md)
